@@ -1,0 +1,33 @@
+html {
+  background-color: orange;
+  font-size: 20px;
+}
+
+ol {
+  background: green;
+  padding: 10px;
+  border: 1px ;
+  color:yellow;
+}
+
+li {
+  margin-left: 20px;
+}
+font
+{ 
+ font-weight: bold;
+ font-size:50px;
+ margin-left:550px;
+}
+ul
+{
+ background-color:black;
+ padding: 20px;
+ border: 2px yellow;
+ color:yellow;
+}
+form
+{
+  background-color:black;
+     
+}
